@@ -1,0 +1,10 @@
+build:
+  mode: script
+
+# Ниже приведен пример сценария сборки на основе команды npm для проекта на JavaScript.
+# Замени команду сборки на свои собственные.
+
+build_script:
+  - npm install
+  - npm start
+  - npm run build
