@@ -1,6 +1,3 @@
-build:
-  mode: script
-
 build_script:
   - npm install
   - npm start
